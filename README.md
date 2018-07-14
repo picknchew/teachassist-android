@@ -7,6 +7,9 @@ It uses their internal API to retrieve marks.
 - Calculates your average mark
 - Less data usage
 
+## Screenshots
+![alt text](https://i.imgur.com/eJqZjmH.png "original design of the app")
+
 ## Planned Features
 - Notifications?
 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="assignment"
+            type="me.picknchew.teachassistapi.model.Assignment" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/assignment_name"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:background="@color/colorPrimaryDark"
+            android:fontFamily="@font/pt_sans"
+            android:foreground="?selectableItemBackground"
+            android:includeFontPadding="false"
+            android:paddingBottom="7dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="7dp"
+            android:text="@{assignment.name}"
+            android:textColor="@color/colorTertiaryDark"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Quiz #1" />
+
+        <net.cachapa.expandablelayout.ExpandableLayout
+            android:id="@+id/assignment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAssignment"
+            app:el_duration="300"
+            app:el_expanded="false">
+
+            <LinearLayout
+                android:id="@+id/marks"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="vertical" />
+
+        </net.cachapa.expandablelayout.ExpandableLayout>
+    </LinearLayout>
+</layout>

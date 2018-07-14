@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="navigation_drawer_width">150dp</dimen>
+    <dimen name="toolbar_height">34dp</dimen>
+</resources>

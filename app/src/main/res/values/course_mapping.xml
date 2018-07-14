@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_mapping">
+        <item>ATC1O|Dance</item>
+        <item>ATC2O|Dance</item>
+        <item>ATC3M|Dance</item>
+        <item>ATC3O|Dance</item>
+        <item>ATC4M|Dance</item>
+        <item>ATC4E|Dance</item>
+
+        <item>ADA1O|Drama</item>
+        <item>ADA2O|Drama</item>
+        <item>ADA3M|Drama</item>
+        <item>ADA4M|Drama</item>
+        <item>ADA4E|Drama</item>
+
+        <item>ALC1O|Integrated Arts</item>
+        <item>ALC2O|Integrated Arts</item>
+        <item>AEA3O|Exploring and Creating in the Arts</item>
+        <item>AEA4O|Exploring and Creating in the Arts</item>
+
+        <item>ASM2O|Media Arts</item>
+        <item>ASM3M|Media Arts</item>
+        <item>ASM3O|Media Arts</item>
+        <item>ASM4M|Media Arts</item>
+        <item>ASM4E|Media Arts</item>
+
+        <item>AMU1O|Music</item>
+        <item>AMU2O|Music</item>
+        <item>AMU3M|Music</item>
+        <item>AMU3O|Music</item>
+        <item>AMU4M|Music</item>
+        <item>AMU4E|Music</item>
+
+        <item>AVI1O|Visual Arts</item>
+        <item>AVI2O|Visual Arts</item>
+        <item>AVI3M|Visual Arts</item>
+        <item>AVI3O|Visual Arts</item>
+        <item>AVI4M|Visual Arts</item>
+        <item>AVI4E|Visual Arts</item>
+
+        <item>BTT1O|Information and Communication Technology in Business</item>
+        <item>BBI1O|Introduction to Business</item>
+        <item>BTT2O|Information and Communication Technology in Business</item>
+        <item>BBI2O|Introduction to Business</item>
+
+        <item>BAF3M|Financial Accounting Fundamentals</item>
+        <item>BAI3E|Accounting Essentials</item>
+        <item>BAT4M|Financial Accounting Principles</item>
+        <item>BAN4E|Accounting for a Small Business</item>
+
+        <item>BDI3C|Entrepreneurship: The Venture</item>
+        <item>BDP3O|Entrepreneurship: The Enterprising Person</item>
+        <item>BDV4C|Entrepreneurship: Venture Planning in an Electronic Age</item>
+
+        <item>BTA3O|Information and Communication Technology: The Digital Environment</item>
+        <item>BTX4C|Information and Communication Technology: Multimedia Solutions</item>
+        <item>BTX4E|Information and Communication Technology in the Workplace</item>
+
+        <item>BBB4M|International Business Fundamentals</item>
+        <item>BBB4E|International Business Essentials</item>
+
+        <item>BMI3C|Marketing: Goods, Services, Events</item>
+        <item>BMX3E|Marketing: Retail and Service</item>
+
+        <item>BOH4M|Business Leadership: Management Fundamentals</item>
+        <item>BOG4E|Business Leadership: Becoming a Manager</item>
+
+        <item>CIE3M|The Individual and the Economy</item>
+        <item>CIA4U|Analysing Current Economic Issues</item>
+        <item>CIC4E|Making Personal Economic Choices</item>
+
+        <item>CGC1D|Issues in Canadian Geography</item>
+        <item>CGC1P|Issues in Canadian Geography</item>
+        <item>CGD3M|Regional Geography</item>
+        <item>CGF3M|Forces of Nature: Physical Processes and Disasters</item>
+        <item>CGG3O|Travel and Tourism: A Geographic Perspective</item>
+
+        <item>CGT3O|Introduction to Spatial Technologies</item>
+        <item>CGW4U|World Issues: A Geographic Analysis</item>
+        <item>CGW4C|World Issues: A Geographic Analysis</item>
+        <item>CGU4M|World Geography: Urban Patterns and Population Issues</item>
+        <item>CGO4M|Spatial Technologies in Action</item>
+        <item>CGR4M|The Environment and Resource Management</item>
+        <item>CGR4E|Living in a Sustainable World</item>
+
+        <item>CHC2D|Canadian History since World War I</item>
+        <item>CHC2P|Canadian History since World War I</item>
+        <item>CHE3O|Origins and Citizenship: The History of a Canadian Ethnic Group</item>
+        <item>CHA3U|American History</item>
+        <item>CHW3M|World History to the End of the Fifteenth Century</item>
+        <item>CHT3O|World History since 1900: Global and Regional Interactions</item>
+        <item>CHI4U|Canada: History, Identity, and Culture</item>
+        <item>CHY4U|World History since the Fifteenth Century</item>
+        <item>CHY4C|World History since the Fifteenth Century</item>
+        <item>CHM4E|Adventures in World History</item>
+
+        <item>CLU3M|Understanding Canadian Law</item>
+        <item>CLU3E|Understanding Canadian Law in Everyday Life</item>
+        <item>CLN4U|Canadian and International Law</item>
+        <item>CLN4C|Legal Studies</item>
+
+        <item>CHV2O|Civics and Citizenship</item>
+        <item>CPC3O|Politics in Action: Making Change</item>
+        <item>CPW4U|Canadian and International Politics</item>
+
+        <item>LVGBD|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVLBD|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVGCU|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVLCU|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVGDU|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVLDU|Classical Languages (Ancient Greek/Latin)</item>
+        <item>LVV4U|Classical Civilization</item>
+
+        <item>LBABD|International Languages</item>
+        <item>LDYBD|International Languages</item>
+        <item>LBABO|International Languages</item>
+        <item>LDYBO|International Languages</item>
+        <item>LBACU|International Languages</item>
+        <item>LDYCU|International Languages</item>
+        <item>LBACO|International Languages</item>
+        <item>LDYCO|International Languages</item>
+        <item>LBADU|International Languages</item>
+        <item>LDYDU|International Languages</item>
+        <item>LBADO|International Languages</item>
+        <item>LDYDO|International Languages</item>
+
+        <item>ICS2O|Introduction to Computer Studies</item>
+        <item>ICS3U|Introduction to Computer Science</item>
+        <item>ICS3C|Introduction to Computer Programming</item>
+        <item>ICS4U|Computer Science</item>
+        <item>ICS4C|Computer Programming</item>
+
+        <item>DCO3O|Creating Opportunities through Co-op</item>
+
+        <item>ENG1D|English</item>
+        <item>ENG1P|English</item>
+        <item>ENG2D|English</item>
+        <item>ENG2P|English</item>
+        <item>ELS2O|Literacy Skills: Reading and Writing</item>
+        <item>ENG3U|English</item>
+        <item>ENG3C|English</item>
+        <item>ENG3E|English</item>
+        <item>ETC3M|Canadian Literature</item>
+        <item>EMS3O|Media Studies</item>
+        <item>EPS3O|Presentation and Speaking Skills</item>
+        <item>ENG4U|English</item>
+        <item>ENG4C|English</item>
+        <item>ENG4E|English</item>
+        <item>ETS4U|Studies in Literature</item>
+        <item>ENG4E|The Writer’s Craft</item>
+        <item>ETS4C|Studies in Literature</item>
+        <item>EWC4C|The Writer’s Craft</item>
+        <item>EBT4O|Business and Technological Communication</item>
+        <item>OLC3O|Ontario Secondary School Literacy Course</item>
+        <item>OLC4O|Ontario Secondary School Literacy Course</item>
+
+        <item>ESLAO|ESL Level 1</item>
+        <item>ESLBO|ESL Level 2</item>
+        <item>ESLCO|ESL Level 3</item>
+        <item>ESLDO|ESL Level 4</item>
+        <item>ESLEO|ESL Level 5</item>
+
+        <item>ELDAO|ELD Level 1</item>
+        <item>ELDBO|ESD Level 2</item>
+        <item>ELDCO|ESD Level 3</item>
+        <item>ELDDO|ESD Level 4</item>
+        <item>ELDEO|ESD Level 5</item>
+
+        <item>NAC1O|Expressions of First Nations, Métis, and Inuit Cultures</item>
+        <item>NAC2O|First Nations, Métis, and Inuit in Canada</item>
+        <item>NBE3U|English: Understanding Contemporary First Nations, Métis, and Inuit Voices</item>
+        <item>NBE3C|English: Understanding Contemporary First Nations, Métis, and Inuit Voices</item>
+        <item>NBE3E|English: Understanding Contemporary First Nations, Métis, and Inuit Voices</item>
+        <item>NDA3M|Contemporary First Nations, Métis, and Inuit Issues and Perspectives</item>
+        <item>NBV3C|World Views and Aspirations of First Nations, Métis, and Inuit Communities in Canada</item>
+        <item>NBV3E|World Views and Aspirations of First Nations, Métis, and Inuit Communities in Canada</item>
+        <item>NDW4M|Contemporary Indigenous Issues and Perspectives in a Global Context</item>
+        <item>NDG4M|First Nations, Métis, and Inuit Governance in Canada</item>
+
+        <item>FSF1D|Core French</item>
+        <item>FSF1P|Core French</item>
+        <item>FSF1O|Core French</item>
+        <item>FEF1D|Extended French</item>
+        <item>FIF1D|French Immersion</item>
+        <item>FIF1P|French Immersion</item>
+        <item>FSF2D|Core French</item>
+        <item>FSF2P|Core French</item>
+        <item>FSF2O|Core French</item>
+        <item>FEF2D|Extended French</item>
+        <item>FIF2D|French Immersion</item>
+        <item>FIF2P|French Immersion</item>
+        <item>FSF3U|Core French</item>
+        <item>FSF3O|Core French</item>
+        <item>FEF3U|Extended French</item>
+        <item>FIF3U|French Immersion</item>
+        <item>FIF3O|French Immersion</item>
+        <item>FSF4U|Core French</item>
+        <item>FSF4O|Core French</item>
+        <item>FEF4U|Extended French</item>
+        <item>FIF4U|French Immersion</item>
+        <item>FIF4O|French Immersion</item>
+
+        <item>GLS1O|Learning Strategies 1: Skills for Success in Secondary School</item>
+        <item>GLE1O|Learning Strategies 1: Skills for Success in Secondary School</item>
+        <item>GLC2O|Career Studies</item>
+        <item>GLE2O|Learning Strategies 1: Skills for Success in Secondary School</item>
+        <item>GLD2O|Discovering the Workplace</item>
+        <item>GWL3O|Designing Your Future</item>
+        <item>GPP3O|Leadership and Peer Support</item>
+        <item>GLE3O|Advanced Learning Strategies: Skills for Success After Secondary School</item>
+        <item>GLS4O|Advanced Learning Strategies: Skills for Success After Secondary School</item>
+        <item>GLE4O|Advanced Learning Strategies: Skills for Success After Secondary School</item>
+        <item>GLN4O|Navigating the Workplace</item>
+
+        <item>PPL1O|Healthy Active Living Education</item>
+        <item>PPL2O|Healthy Active Living Education</item>
+        <item>PPL3O|Healthy Active Living Education</item>
+        <item>PPZ3C|Health for Life</item>
+        <item>PPL4O|Healthy Active Living Education</item>
+        <item>PSK4U|Introductory Kinesiology</item>
+        <item>PLF4M|Recreation and Healthy Active Living Leadership</item>
+
+        <item>IDC3O|Interdisciplinary Studies</item>
+        <item>IDP3O|Interdisciplinary Studies</item>
+        <item>IDC4U|Interdisciplinary Studies</item>
+        <item>IDP4U|Interdisciplinary Studies</item>
+        <item>IDC4O|Interdisciplinary Studies</item>
+        <item>IDP4O|Interdisciplinary Studies</item>
+
+        <item>LNAAO|Native Languages, Level 1 (NL1)</item>
+        <item>LNOAO|Native Languages, Level 1 (NL1)</item>
+        <item>LNABO|Native Languages, Level 2 (NL2)</item>
+        <item>LNOBO|Native Languages, Level 2 (NL2)</item>
+        <item>LNACO|Native Languages, Level 3 (NL3)</item>
+        <item>LNOCO|Native Languages, Level 3 (NL3)</item>
+        <item>LNADO|Native Languages, Level 4 (NL4)</item>
+        <item>LNODO|Native Languages, Level 4 (NL4)</item>
+        <item>LNAEO|Native Languages, Level 5 (NL5)</item>
+        <item>LNOEO|Native Languages, Level 5 (NL5)</item>
+
+        <item>SNC1D|Science</item>
+        <item>SNC1P|Science</item>
+        <item>SNC2D|Science</item>
+        <item>SNC2P|Science</item>
+        <item>SNC4M|Science</item>
+        <item>SNC4E|Science</item>
+
+        <item>SBI3U|Biology</item>
+        <item>SBI3C|Biology</item>
+        <item>SBI4U|Biology</item>
+
+        <item>SCH3U|Chemistry</item>
+        <item>SCH4U|Chemistry</item>
+        <item>SCH4C|Chemistry</item>
+
+        <item>SES4U|Earth and Space Science</item>
+
+        <item>SVN3M|Environmental Science</item>
+        <item>SVN3E|Environmental Science</item>
+
+        <item>SPH3U|Physics</item>
+        <item>SPH4U|Physics</item>
+        <item>SPH4C|Physics</item>
+
+        <item>HSG3M|Gender Studies</item>
+        <item>HSE3E|Equity, Diversity, and Social Justice</item>
+        <item>HSE4M|Equity and Social Justice: From Theory to Practice</item>
+        <item>HSC4M|World Cultures</item>
+
+        <item>HIF1O|Exploring Family Studies</item>
+        <item>HFN1O|Food and Nutrition</item>
+        <item>HIF2O|Exploring Family Studies</item>
+        <item>HFN2O|Food and Nutrition</item>
+        <item>HNL2O|Clothing</item>
+        <item>HNC3C|Understanding Fashion</item>
+        <item>HLS3O|Housing and Home Design</item>
+        <item>HFC3M|Food and Culture</item>
+        <item>HFC3E|Food and Culture</item>
+        <item>HHD3O|Dynamics of Human Relationships</item>
+        <item>HPW3C|Working with Infants and Young Children</item>
+        <item>HPC3O|Raising Healthy Children</item>
+        <item>HNB4M|The World of Fashion</item>
+        <item>HFA4U|Nutrition and Health</item>
+        <item>HFA4C|Nutrition and Health</item>
+        <item>HFA4C|Nutrition and Health</item>
+        <item>HFL4E|Food and Healthy Living</item>
+        <item>HHS4U|Families in Canada</item>
+        <item>HHS4C|Families in Canada</item>
+        <item>HHG4M|Human Development throughout the Lifespan</item>
+        <item>HIP4O|Personal Life Management</item>
+        <item>HPD4C|Working with School-Age Children and Adolescents</item>
+
+        <item>HSP3U|Introduction to Anthropology, Psychology, and Sociology</item>
+        <item>HSP3C|Introduction to Anthropology, Psychology, and Sociology</item>
+        <item>HSB4U|Challenge and Change in Society</item>
+
+        <item>HZB3M|Philosophy: The Big Questions</item>
+        <item>HZT4U|Philosophy: Questions and Theories</item>
+
+        <item>HRT3M|World Religions and Belief Traditions: Perspectives, Issues, and Challenges</item>
+        <item>HRF3O|World Religions and Belief Traditions in Daily Life</item>
+
+        <item>TIJ1O|Exploring Technologies</item>
+
+        <item>TGJ2O|Communications Technology</item>
+        <item>TGJ3M|Communications Technology</item>
+        <item>TGJ3O|Communications Technology: Broadcast and Print Production</item>
+        <item>TGJ3M|Communications Technology</item>
+        <item>TGJ4O|Communications Technology: Digital Imagery and Web Design</item>
+        <item>TGJ3O|Communications Technology: Broadcast and Print Production</item>
+
+        <item>TEJ2O|Computer Technology</item>
+        <item>TEJ3M|Computer Engineering Technology</item>
+        <item>TEJ3E|Computer Technology</item>
+        <item>TEJ4M|Computer Engineering Technology</item>
+        <item>TEJ4E|Computer Technology</item>
+
+        <item>TCJ2O|Construction Technology</item>
+        <item>TCJ3C|Construction Engineering Technology</item>
+        <item>TCJ2E|Construction Technology</item>
+        <item>TCJ3E|Construction Technology</item>
+        <item>TWJ3E|Construction Technology</item>
+        <item>TCJ4C|Construction Engineering Technology</item>
+        <item>TCJ4E|Construction Technology</item>
+        <item>TWJ4E|Custom Woodworking</item>
+
+        <item>THJ2O|Green Industries</item>
+        <item>THJ3M|Green Industries</item>
+        <item>THJ3E|Green Industries</item>
+        <item>THJ4M|Green Industries</item>
+        <item>THJ4E|Green Industries</item>
+
+        <item>TXJ2O|Hairstyling and Aesthetics</item>
+        <item>TXJ3E|Hairstyling and Aesthetics</item>
+        <item>TXJ3E|Hairstyling and Aesthetics</item>
+
+        <item>TPJ2O|Health Care</item>
+        <item>TPJ3M|Health Care</item>
+        <item>TPJ3C|Health Care</item>
+        <item>TPJ4M|Health Care</item>
+        <item>TPJ4C|Health Care</item>
+        <item>TOJ4C|Child Development and Gerontology</item>
+        <item>TPJ4E|Health Care: Support Services</item>
+
+        <item>TFJ2O|Hospitality and Tourism Technology</item>
+        <item>TFJ3C|Hospitality and Tourism</item>
+        <item>TFJ3E|Hospitality and Tourism</item>
+        <item>TFJ4C|Hospitality and Tourism</item>
+        <item>TFJ4E|Hospitality and Tourism</item>
+
+        <item>TMJ2O|Manufacturing Technology</item>
+        <item>TMJ3M|Manufacturing Engineering Technology</item>
+        <item>TMJ3C|Manufacturing Technology</item>
+        <item>TMJ3E|Manufacturing Technology</item>
+        <item>TMJ4M|Manufacturing Engineering Technology</item>
+        <item>TMJ4C|Manufacturing Technology</item>
+        <item>TMJ4E|Manufacturing Technology</item>
+
+        <item>TDJ2O|Technological Design</item>
+        <item>TDJ3M|Technological Design</item>
+        <item>TDJ3O|Technological Design and the Environment</item>
+        <item>TDJ4M|Technological Design</item>
+        <item>TDJ4O|Technological Design in the Twenty-first Century</item>
+
+        <item>TTJ2O|Transportation Technology</item>
+        <item>TTJ3C|Transportation Technology</item>
+        <item>TTJ3O|Transportation Technology: Vehicle Ownership</item>
+        <item>TTJ4C|Transportation Technology</item>
+        <item>TTJ4E|Transportation Technology: Vehicle Maintenance</item>
+    </string-array>
+</resources>

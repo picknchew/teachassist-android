@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TeachAssist</string>
+
+    <string name="prompt_student_number">Student Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="error_invalid_credentials">Student id or password is incorrect.</string>
+    <string name="error_no_network">No network found. Please check your connection and try again.</string>
+    <string name="error_network">A network error has occurred. Please try again.</string>
+    <string name="error_invalid_course">The course selected no longer exists.</string>
+    <string name="teachassist">teachassist</string>
+    <string name="student_id">Student Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="courses">Courses</string>
+    <string name="current_average">current average</string>
+    <string name="not_available">N/A</string>
+    <string name="error_retrieve">Failed to retrieve data from teachassist. Please try again.</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="current_mark">current mark</string>
+    <string name="knowledge_understanding">Knowledge / Understanding (%1$s)</string>
+    <string name="thinking">Thinking (%1$s)</string>
+    <string name="communication">Communication (%1$s)</string>
+    <string name="application">Application (%1$s)</string>
+    <string name="other">Other (%1$s)</string>
+    <string name="mark">%1$s/%2$s (%3$d)</string>
+    <string name="log_out">Log out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

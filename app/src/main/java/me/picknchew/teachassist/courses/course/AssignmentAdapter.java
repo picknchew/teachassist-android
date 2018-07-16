@@ -59,7 +59,6 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.Vi
     }
 
     public void updateWeights() {
-        Log.d("HELLO", Arrays.toString(assignments.get(0).getMarks().values().toArray()));
         for (Category category : Category.values()) {
             int totalWeight = 0;
 

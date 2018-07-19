@@ -22,7 +22,7 @@
     <string name="communication">Communication (%1$s)</string>
     <string name="application">Application (%1$s)</string>
     <string name="other">Other (%1$s)</string>
-    <string name="mark">%1$s/%2$s (%3$d)</string>
+    <string name="mark">%1$s/%2$s (%3$s)</string>
     <string name="log_out">Log out</string>
     <string name="open">Open</string>
     <string name="close">Close</string>

@@ -66,7 +66,13 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.Vi
                 Map<Category, Mark> marks = assignment.getMarks();
 
                 if (marks.containsKey(category)) {
-                    totalWeight += Integer.parseInt(marks.get(category).getWeight());
+                    Mark mark = marks.get(category);
+
+                    if (mark.getMark() == null) {
+                        continue;
+                    }
+
+                    totalWeight += Integer.parseInt(mark.getWeight());
                 }
             }
 
@@ -151,11 +157,16 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.Vi
                         break;
                 }
 
-                double categoryPercentage = Double.parseDouble(mark.getWeight()) / (double) totalWeights.get(category) * 100.0D;
-                long markPercentage = Math.round(Double.parseDouble(mark.getMark()) / Double.parseDouble(mark.getOutOf()) * 100.0D);
+                if (mark.getMark() != null) {
+                    double categoryPercentage = Double.parseDouble(mark.getWeight()) / (double) totalWeights.get(category) * 100.0D;
+                    long markPercentage = Math.round(Double.parseDouble(mark.getMark()) / Double.parseDouble(mark.getOutOf()) * 100.0D);
 
-                categoryTextView.setText(context.getString(stringId, categoryPercentage < 1 ? "<1" : Math.round(categoryPercentage)));
-                markTextView.setText(context.getString(R.string.mark, mark.getMark(), mark.getOutOf(), markPercentage));
+                    categoryTextView.setText(context.getString(stringId, categoryPercentage < 1 ? "<1" : Math.round(categoryPercentage)));
+                    markTextView.setText(context.getString(R.string.mark, mark.getMark(), mark.getOutOf(), Long.toString(markPercentage)));
+                } else {
+                    categoryTextView.setText(context.getString(stringId, "-"));
+                    markTextView.setText(context.getString(R.string.mark, "-", mark.getOutOf(), "-"));
+                }
 
                 rows.add(row);
             }

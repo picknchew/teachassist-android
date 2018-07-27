@@ -125,7 +125,7 @@ public class CourseActivity extends Activity implements CourseView, SwipeRefresh
     }
 
     public void updateMark() {
-        markTextView.setText(courseInfo.getMark());
+        markTextView.setText(courseInfo.isMarkHidden() ? getResources().getString(R.string.not_available) : courseInfo.getMark());
     }
 
     private void initRecyclerView() {
